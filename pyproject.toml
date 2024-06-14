@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "textfsm-example"
+version = "0.1.0"
+description = ""
+authors = ["Shintaro Kojima <goodies@codeout.net>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
